@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ayesha Javed
-**AI/ML Engineer · NLP · Backend · Generative AI**
+**Undergraduate Computer Science Student @ FAST NUCES**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayeshajaved)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aayesha.javed04@gmail.com)
