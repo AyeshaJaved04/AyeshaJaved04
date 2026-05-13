@@ -8,12 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyeshaJaved04)
 
 </div>
-
----
-
-CS undergrad at **FAST-NUCES Karachi** 
----
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -27,16 +21,4 @@ CS undergrad at **FAST-NUCES Karachi**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
----
 
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AyeshaJaved04&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaJaved04&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
